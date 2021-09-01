@@ -1,0 +1,9 @@
+mov r1 r2
+mov r3 r2
+mov r4 r3
+breq r3 r4 label
+mov r10 r1
+add r14 r15 r6
+sub r11 r5 r1
+label: add r1 r4 r5
+add r2 r1 r1
